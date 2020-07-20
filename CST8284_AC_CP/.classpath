@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CST8284_Lab01/src"/>
+	<classpathentry kind="src" path="CST8284_Lab02/src"/>
+	<classpathentry kind="src" path="CST8284_Lab03/src"/>
+	<classpathentry kind="src" path="CST8284_Lab04/src"/>
+	<classpathentry kind="src" path="CST8284_Lab05/src"/>
+	<classpathentry kind="src" path="CST8284_Lab06/src"/>
+	<classpathentry kind="src" path="CST8284_Lab07/src"/>
+	<classpathentry kind="src" path="CST8284_Lab08/src"/>
+	<classpathentry kind="src" path="CST8284_Lab09/src"/>
+	<classpathentry kind="output" path="CST8284_Lab01/bin"/>
+</classpath>
